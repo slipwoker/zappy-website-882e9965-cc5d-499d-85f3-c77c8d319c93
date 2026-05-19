@@ -1,0 +1,100 @@
+# Leybedik — Generative Engine Optimization Map
+
+> Leybedik is an e-commerce brand with an existing website (leybedik.co.il) looking to upgrade to a faster, more visually appealing online store. The new site should offer a pleasant browsing experience and an enticing, conversion-optimized shop that makes visitors want to buy. The brand emphasizes a smooth, enjoyable shopping journey.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+לייבדיק היא חנות האונליין שתשנה את חווית הקנייה שלכם לנצח. מוצרים מעולים, מחירים שווים ומשלוח מהיר — הצטרפו אלינו עוד היום וגלו למה אנחנו הבחירה הטובה ביותר!
+
+### הסיפור שלנו
+https://example.com/brand-story
+גלו את הסיפור האמיתי מאחורי לייבדיק — מותג שנולד מתוך תשוקה לשנות את עולם הקמעונאות הדיגיטלית. כאן תבינו מה מניע אותנו ולמה כל לקוח חשוב לנו מהרגע הראשון.
+
+### חוויה
+https://example.com/experience
+חוויית הקנייה בלייבדיק מעוצבת כדי לגרום לכם להנות מכל רגע. גלישה חלקה, עיצוב מרהיב ותהליך רכישה פשוט שהופך כל ביקור לחוויה שתרצו לחזור אליה שוב ושוב.
+
+### שאלות ויצירת קשר
+https://example.com/contact
+יש לכם שאלה, הצעה או סתם רוצים לדעת עוד? צוות לייבדיק זמין ומוכן לעזור. צרו קשר עכשיו ותגלו שירות אנושי, מהיר ואמיתי שמכניס אתכם בראש סדר העדיפויות שלנו.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Leybedik
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Leybedik
+
+### Category
+https://example.com/category/:slug
+מוצרים - Leybedik
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Leybedik
+Leybedik is an e-commerce brand with an existing website (leybedik.co.il) looking to upgrade to a faster, more visually appealing online store. The new site should offer a pleasant browsing experience and an enticing, conversion-optimized shop that makes visitors want to buy. The brand emphasizes a smooth, enjoyable shopping journey.
+
+## Target Audience
+- חובבי אופנה צעירים
+- מקצוענים עסוקים
+- צרכנים ידידותיים לסביבה
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
